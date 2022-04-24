@@ -1,0 +1,88 @@
+.fw-backend-option-type-icon .fa-lakshmi-ahimsa:before,
+.fw-backend-option-type-icon .fa-lakshmi-bamboo:before,
+.fw-backend-option-type-icon .fa-lakshmi-buddha:before,
+.fw-backend-option-type-icon .fa-lakshmi-buddha-light:before,
+.fw-backend-option-type-icon .fa-lakshmi-chakra:before,
+.fw-backend-option-type-icon .fa-lakshmi-fire:before,
+.fw-backend-option-type-icon .fa-lakshmi-flower:before,
+.fw-backend-option-type-icon .fa-lakshmi-ganesha:before,
+.fw-backend-option-type-icon .fa-lakshmi-ganesha-2:before,
+.fw-backend-option-type-icon .fa-lakshmi-girl:before,
+.fw-backend-option-type-icon .fa-lakshmi-india:before,
+.fw-backend-option-type-icon .fa-lakshmi-hand:before,
+.fw-backend-option-type-icon .fa-lakshmi-kois:before,
+.fw-backend-option-type-icon .fa-lakshmi-lotus:before,
+.fw-backend-option-type-icon .fa-lakshmi-mandala:before,
+.fw-backend-option-type-icon .fa-lakshmi-mandala-2:before,
+.fw-backend-option-type-icon .fa-lakshmi-mandala-3:before,
+.fw-backend-option-type-icon .fa-lakshmi-om:before,
+.fw-backend-option-type-icon .fa-lakshmi-om-light:before,
+.fw-backend-option-type-icon .fa-lakshmi-pagoda:before,
+.fw-backend-option-type-icon .fa-lakshmi-palm:before,
+.fw-backend-option-type-icon .fa-lakshmi-shiva:before,
+.fw-backend-option-type-icon .fa-lakshmi-tea:before,
+.fw-backend-option-type-icon .fa-lakshmi-vulva:before,
+.fw-backend-option-type-icon .fa-lakshmi-wheel:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-2:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-3:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-4:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-5:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-6:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-7:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-8:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-9:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-10:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-11:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-12:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-13:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-14:before,
+.fw-backend-option-type-icon .fa-lakshmi-yoga-15:before { 
+	line-height: 1px;
+}
+
+.fw-options-tabs-wrapper.ui-tabs {
+    padding: 0;
+	border: none;
+}
+
+.fw-options-tabs-wrapper > .fw-options-tabs-list ul, .fw-options-tabs-wrapper > .fw-options-tabs-list ul li {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+}
+
+.fw-options-tabs-wrapper > .fw-options-tabs-list ul li a.nav-tab {
+    margin-bottom: 0px !important;
+}
+
+/* Page Builder */
+
+#fw-backend-option-fw-edit-options-modal-responsive_behaviour_text,
+#fw-backend-option-fw-edit-options-modal-unique_design_text {
+	background-color: #444;
+}
+
+#fw-backend-option-fw-edit-options-modal-responsive_behaviour_text label,
+#fw-backend-option-fw-edit-options-modal-unique_design_text label {
+	color: #fff;
+	font-size: 25px;
+    line-height: 30px;
+}
+
+.fw-background-selector div {
+    float: left;
+    margin-right: 20px;
+}
+
+.fw-container-type-group .fw-backend-option-type-short-text {
+	width: 50px;
+    float: left;
+    padding: 20px 10px;
+}
+
+.fw-container-type-group .fw-backend-option-type-html {
+    float: left;
+    width: 18%;
+}

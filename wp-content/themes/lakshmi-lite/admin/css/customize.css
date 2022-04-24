@@ -1,0 +1,63 @@
+/* Customizer */
+
+#fw-backend-option-fw-option-lsi_header_style_text,
+#fw-backend-option-fw-option-lsi_logo_style_text,
+#fw-backend-option-fw-option-lsi_mobil_menu_text,
+#fw-backend-option-fw-option-lsi_footer_widget_col_text,
+#fw-backend-option-fw-option-lsi_copyright_area_text,
+#fw-backend-option-fw-option-lsi_transparent_header_text,
+#fw-backend-option-fw-option-lsi_sta_text,
+#fw-backend-option-fw-option-lsi_sta_smaller_text,
+#fw-backend-option-fw-option-lsi_sta_tablet_text,
+#fw-backend-option-fw-option-lsi_sta_mobil_text,
+#fw-backend-option-fw-option-lsi_snav_text,
+#fw-backend-option-fw-option-lsi_header_colors_text,
+#fw-backend-option-fw-option-lsi_footer_colors_text,
+#fw-backend-option-fw-option-lsi_header_fonts_style_text,
+#fw-backend-option-fw-option-lsi_footer_fonts_text,
+#fw-backend-option-fw-option-lsi_basic_colors_text,
+#fw-backend-option-fw-option-lsi_s_cta_style_text,
+#fw-backend-option-fw-option-lsi_s_quotecarousel_style_text,
+#fw-backend-option-fw-option-lsi_header_buttons_text,
+#fw-backend-option-fw-option-lsi_menu_item_text,
+#fw-backend-option-fw-option-lsi_submenu_item_text {
+	padding: 20px 10px 0;
+    margin: 0 -10px;
+    background-color: #fefefe;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}
+
+#fw-backend-option-fw-option-lsi_header_style_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_logo_style_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_mobil_menu_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_footer_widget_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_footer_widget_col_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_copyright_area_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_transparent_header_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_sta_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_snav_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_header_colors_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_footer_colors_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_header_fonts_style_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_footer_fonts_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_basic_colors_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_s_cta_style_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_s_quotecarousel_style_text .customize-control-title {
+	font-size: 25px;
+}
+
+#fw-backend-option-fw-option-lsi_sta_smaller_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_sta_tablet_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_sta_mobil_text .customize-control-title {
+	font-size: 20px;
+}
+
+#fw-backend-option-fw-option-lsi_header_buttons_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_menu_item_text .customize-control-title,
+#fw-backend-option-fw-option-lsi_submenu_item_text .customize-control-title {
+	font-size: 25px;
+	padding-bottom: 10px;
+}
+

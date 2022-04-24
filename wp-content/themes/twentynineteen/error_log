@@ -1,0 +1,10 @@
+[31-May-2020 04:55:33 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentynineteen/functions.php on line 15
+[31-May-2020 04:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentynineteen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentynineteen/functions.php on line 16
+[05-Jun-2020 14:13:53 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentynineteen/functions.php on line 15
+[05-Jun-2020 14:13:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentynineteen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentynineteen/functions.php on line 16

@@ -1,0 +1,125 @@
+[07-Dec-2018 14:19:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[08-Dec-2018 18:02:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[08-Dec-2018 21:06:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[12-Dec-2018 17:11:01 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[12-Dec-2018 17:11:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[22-Dec-2018 01:59:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[01-Jan-2019 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-May-2019 09:39:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[09-May-2019 13:05:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[12-May-2019 15:32:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-May-2019 15:35:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[19-May-2019 00:40:37 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 00:40:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 00:41:18 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 00:41:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 00:42:42 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 00:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[02-Jun-2019 19:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[03-Jun-2019 03:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Jun-2019 10:18:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[15-Jun-2019 06:56:15 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[15-Jun-2019 06:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 17:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Jul-2019 03:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2019 00:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[22-Oct-2019 20:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[05-Nov-2019 23:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2019 23:38:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2019 23:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[13-Dec-2019 00:06:18 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[13-Dec-2019 00:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[13-Dec-2019 00:07:16 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[13-Dec-2019 00:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[23-Apr-2020 22:31:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[31-May-2020 04:55:33 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[31-May-2020 04:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[05-Jun-2020 14:13:53 UTC] PHP Notice:  Undefined index: wp_version in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[05-Jun-2020 14:13:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/o6ls971hxjy4/public_html/wp-content/themes/twentyseventeen/functions.php on line 16

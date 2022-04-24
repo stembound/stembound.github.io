@@ -1,0 +1,2209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-14 16:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:26
+#, php-format
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:69
+msgid "Name"
+msgstr ""
+
+#: comments.php:72
+msgid "Email"
+msgstr ""
+
+#: comments.php:75
+msgid "Website"
+msgstr ""
+
+#: comments.php:78
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:79
+msgid "Submit"
+msgstr ""
+
+#: content-gallery.php:60 content-link.php:36 content.php:35
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: header.php:129
+msgid "Menu"
+msgstr ""
+
+#: header.php:209 header.php:244 includes/theme-function.php:138
+#: includes/theme-function.php:141
+msgid "Read more"
+msgstr ""
+
+#: loop.php:30
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:32
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: page.php:16 framework-customizations/theme/options/general-settings.php:220
+msgid "Read More"
+msgstr ""
+
+#: page.php:17
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search..."
+msgstr ""
+
+#: single.php:135
+msgid "Previous Post:"
+msgstr ""
+
+#: single.php:136
+msgid "Next Post:"
+msgstr ""
+
+#: single.php:137
+msgid "Post navigation"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:7
+#: framework-customizations/theme/options/blog-settings.php:111
+msgid "Blog"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:11
+msgid "Blog Layout"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:14
+msgid "Select the layout for your blog loops."
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:67
+#: includes/theme-init.php:136
+msgid "Featured Blog Posts"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:71
+#: framework-customizations/theme/options/blog-settings.php:94
+#: framework-customizations/theme/options/footer-settings.php:150
+#: framework-customizations/theme/options/footer-settings.php:171
+#: framework-customizations/theme/options/header-settings.php:111
+#: framework-customizations/theme/options/header-settings.php:251
+#: framework-customizations/theme/options/header-settings.php:337
+#: framework-customizations/theme/options/secondary-header-settings.php:15
+#: framework-customizations/theme/options/secondary-header-settings.php:29
+msgid "On"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:75
+#: framework-customizations/theme/options/blog-settings.php:90
+#: framework-customizations/theme/options/footer-settings.php:146
+#: framework-customizations/theme/options/footer-settings.php:167
+#: framework-customizations/theme/options/header-settings.php:107
+#: framework-customizations/theme/options/header-settings.php:247
+#: framework-customizations/theme/options/header-settings.php:333
+#: framework-customizations/theme/options/secondary-header-settings.php:19
+#: framework-customizations/theme/options/secondary-header-settings.php:33
+msgid "Off"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:78
+msgid "Featured posts on blog pages."
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:86
+msgid "Post Infos"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:97
+msgid "Display infos about the posts."
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:108
+msgid "Allow for post types"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:109
+msgid "Uncheck to disable for any type"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:112
+msgid "Post"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:125
+msgid "Info Types"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:126
+msgid "Select the info types for Single Posts."
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:128
+#: framework-customizations/theme/options/blog-settings.php:148
+msgid "Date"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:129
+#: framework-customizations/theme/options/blog-settings.php:149
+msgid "Author"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:130
+#: framework-customizations/theme/options/blog-settings.php:150
+msgid "Categories"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:131
+#: framework-customizations/theme/options/blog-settings.php:151
+msgid "Comments"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:132
+#: framework-customizations/theme/options/blog-settings.php:152
+msgid "Tags"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:145
+msgid "Normal Blog Info Types"
+msgstr ""
+
+#: framework-customizations/theme/options/blog-settings.php:146
+msgid "Select the info types for Normal Blog page template."
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:7
+msgid "Colors"
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:11
+#: framework-customizations/theme/options/header-settings.php:22
+msgid "Header Style"
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:14
+#: framework-customizations/theme/options/header-settings.php:25
+msgid "Customize the header as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:18
+msgid "Header Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:21
+msgid "Pick a color for header background."
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:24
+msgid "Footer Style"
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:27
+msgid "Customize the footer as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:31
+msgid "Footer Widgets Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:34
+#: framework-customizations/theme/options/color-settings.php:40
+#: framework-customizations/theme/options/general-settings.php:66
+#: framework-customizations/theme/options/general-settings.php:125
+msgid "Pick a color for the background."
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:37
+msgid "Footer Layer Color"
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:43
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/color-settings.php:46
+msgid "Pick a color for bottom footer background."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:7
+msgid "Footer"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:11
+msgid "Footer Widget Area"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:14
+msgid "Customize the footer widget area as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:18
+msgid "Allow Footer Widgets"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:22
+#: framework-customizations/theme/options/footer-settings.php:77
+#: framework-customizations/theme/options/footer-settings.php:99
+#: framework-customizations/theme/options/footer-settings.php:201
+#: framework-customizations/theme/options/general-settings.php:100
+#: framework-customizations/theme/options/general-settings.php:159
+#: framework-customizations/theme/options/general-settings.php:210
+#: framework-customizations/theme/options/header-settings.php:185
+#: framework-customizations/theme/options/header-settings.php:280
+#: framework-customizations/theme/options/header-settings.php:360
+#: framework-customizations/theme/options/header-settings.php:381
+#: framework-customizations/theme/options/secondary-header-settings.php:77
+#: framework-customizations/theme/options/secondary-header-settings.php:97
+#: framework-customizations/theme/options/secondary-header-settings.php:123
+#: framework-customizations/theme/options/posts/post.php:64
+msgid "Yes"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:26
+#: framework-customizations/theme/options/footer-settings.php:81
+#: framework-customizations/theme/options/footer-settings.php:95
+#: framework-customizations/theme/options/footer-settings.php:205
+#: framework-customizations/theme/options/general-settings.php:104
+#: framework-customizations/theme/options/general-settings.php:163
+#: framework-customizations/theme/options/general-settings.php:214
+#: framework-customizations/theme/options/header-settings.php:189
+#: framework-customizations/theme/options/header-settings.php:284
+#: framework-customizations/theme/options/header-settings.php:364
+#: framework-customizations/theme/options/header-settings.php:385
+#: framework-customizations/theme/options/secondary-header-settings.php:81
+#: framework-customizations/theme/options/secondary-header-settings.php:101
+#: framework-customizations/theme/options/secondary-header-settings.php:127
+#: framework-customizations/theme/options/posts/post.php:68
+msgid "No"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:29
+msgid "Display widget area on footer or not."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:32
+msgid "Footer Columns"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:35
+msgid "The value is column for display in footer column."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:46
+msgid "Footer Widgets Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:47
+#: framework-customizations/theme/options/general-settings.php:70
+#: framework-customizations/theme/options/general-settings.php:129
+msgid "Upload an image for the background."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:51
+msgid "Footer Widgets Background Image Size"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:55
+#: framework-customizations/theme/options/general-settings.php:78
+#: framework-customizations/theme/options/general-settings.php:137
+#: framework-customizations/theme/options/general-settings.php:188
+#: framework-customizations/theme/options/header-settings.php:38
+#: framework-customizations/theme/options/sidebars-settings.php:84
+msgid "inherit"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:56
+#: framework-customizations/theme/options/general-settings.php:79
+#: framework-customizations/theme/options/general-settings.php:138
+#: framework-customizations/theme/options/general-settings.php:189
+#: framework-customizations/theme/options/header-settings.php:39
+#: framework-customizations/theme/options/sidebars-settings.php:85
+msgid "initial"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:57
+#: framework-customizations/theme/options/general-settings.php:80
+#: framework-customizations/theme/options/general-settings.php:139
+#: framework-customizations/theme/options/general-settings.php:190
+#: framework-customizations/theme/options/header-settings.php:40
+#: framework-customizations/theme/options/sidebars-settings.php:86
+msgid "cover"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:58
+#: framework-customizations/theme/options/general-settings.php:81
+#: framework-customizations/theme/options/general-settings.php:140
+#: framework-customizations/theme/options/general-settings.php:191
+#: framework-customizations/theme/options/header-settings.php:41
+#: framework-customizations/theme/options/sidebars-settings.php:87
+msgid "contain"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:62
+msgid "Footer Widgets Background Image Repeat"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:66
+#: framework-customizations/theme/options/general-settings.php:89
+#: framework-customizations/theme/options/general-settings.php:148
+#: framework-customizations/theme/options/general-settings.php:199
+#: framework-customizations/theme/options/header-settings.php:49
+#: framework-customizations/theme/options/sidebars-settings.php:95
+msgid "no-repeat"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:67
+#: framework-customizations/theme/options/general-settings.php:90
+#: framework-customizations/theme/options/general-settings.php:149
+#: framework-customizations/theme/options/general-settings.php:200
+#: framework-customizations/theme/options/header-settings.php:50
+#: framework-customizations/theme/options/sidebars-settings.php:96
+msgid "repeat"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:68
+#: framework-customizations/theme/options/general-settings.php:91
+#: framework-customizations/theme/options/general-settings.php:150
+#: framework-customizations/theme/options/general-settings.php:201
+#: framework-customizations/theme/options/header-settings.php:51
+#: framework-customizations/theme/options/sidebars-settings.php:97
+msgid "repeat-x"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:69
+#: framework-customizations/theme/options/general-settings.php:92
+#: framework-customizations/theme/options/general-settings.php:151
+#: framework-customizations/theme/options/general-settings.php:202
+#: framework-customizations/theme/options/header-settings.php:52
+#: framework-customizations/theme/options/sidebars-settings.php:98
+msgid "repeat-y"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:73
+msgid "Fixed Footer Widgets Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:91
+msgid "Layer On Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:102
+msgid "Layer on background image."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:108
+msgid "Footer Widgets Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:109
+msgid "Footer widgets padding (top, right, bottom, left)."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:114
+msgid "Footer Column Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:115
+msgid "Footer widgets columns padding (top, right, bottom, left)."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:120
+msgid "Copyright Area"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:123
+msgid "Customize the footer copyright area as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:127
+msgid "Bottom Footer Layout"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:130
+msgid "Choose one of the bottom footer layouts."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:132
+msgid "Copyright - Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:133
+msgid "Menu - Copyright"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:142
+msgid "Social Icons"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:153
+msgid "Display social icons on the footer."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:163
+msgid "Bottom Footer Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:174
+msgid "Display menu on the bottom footer."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:179
+msgid "Copyright Text"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:182
+msgid ""
+"If you dont need to add a copyright message to your website, leave this "
+"field blank."
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:185
+msgid "Bottom Footer Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:186
+#: framework-customizations/theme/options/footer-settings.php:192
+#: framework-customizations/theme/options/secondary-header-settings.php:88
+#: framework-customizations/theme/options/secondary-header-settings.php:108
+#: framework-customizations/theme/options/secondary-header-settings.php:114
+#: framework-customizations/theme/options/secondary-header-settings.php:134
+msgid "top, right, bottom, left"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:191
+#: framework-customizations/theme/options/secondary-header-settings.php:113
+msgid "Menu Item Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:197
+msgid "Allow Link Animation"
+msgstr ""
+
+#: framework-customizations/theme/options/footer-settings.php:208
+msgid "Allow line animation on link elements."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:7
+msgid "General"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:11
+msgid "Lakshmi Style"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:15
+msgid "Default"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:16
+msgid "Blogger"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:17
+msgid "Hinduist"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:28
+msgid "Theme Layout"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:31
+msgid "Fullwidth"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:32
+msgid "Boxed"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:33
+msgid "Side Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:40
+msgid "Box Width"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:48
+msgid "The width of the box."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:51
+msgid "Margin Top"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:54
+msgid "Margin at the top of the box. (px)"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:57
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:60
+msgid "Margin at the bottom of the box. (px)"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:63
+#: framework-customizations/theme/options/general-settings.php:122
+msgid "Body Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:69
+#: framework-customizations/theme/options/general-settings.php:128
+msgid "Body Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:74
+#: framework-customizations/theme/options/general-settings.php:133
+msgid "Body Background Image Size"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:85
+#: framework-customizations/theme/options/general-settings.php:144
+msgid "Body Background Image Repeat"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:96
+#: framework-customizations/theme/options/general-settings.php:155
+msgid "Fixed Body Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:111
+msgid "Padding Size"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:119
+msgid "Padding in px."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:172
+msgid "Page Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:175
+msgid "Pick a color for page background"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:179
+msgid "Page Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:180
+msgid "Upload an image for page background."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:184
+msgid "Page Background Image Size"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:195
+msgid "Page Background Image Repeat"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:206
+msgid "Enable Responsive"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:217
+msgid "Enable the responsive behaviour of the theme."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:221
+msgid "Default \"Read more\" text on buttons."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:226
+msgid "Unique 404 Page"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:227
+msgid "If You need unique design, select the 404 error page"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:233
+msgid "Google Maps"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:235
+#, php-format
+msgid "Create an account in %1$sGoogle Console%2$s and add the API Key."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:238
+#: framework-customizations/theme/options/posts/page.php:92
+msgid "Custom CSS"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:239
+msgid "Add Your custom CSS here"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:7
+msgid "Header"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:11
+msgid "Header Layout"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:14
+msgid "Choose one of the header layouts."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:16
+msgid "Logo - Menu - Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:17
+msgid "Logo - Right Menu - Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:18
+msgid "Top Logo With Ad - Menu - Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:29
+msgid "Header Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:30
+msgid "Upload an image for header background."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:34
+msgid "Header Background Image Size"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:45
+msgid "Header Background Image Repeat"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:56
+msgid "Logo Style"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:59
+msgid "Customize the logo area as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:70
+msgid "Logo Type"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:73
+msgid "Text-based Logo"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:74
+msgid "Image Logo"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:76
+msgid "Select one from the logo types and add the content."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:83
+msgid "Logo Image"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:84
+msgid "Upload the logo image."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:92
+msgid "Logo Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:93
+msgid "Padding CSS value for the logo area (top, right, bottom, left)."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:103
+msgid "Display Tagline"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:114
+msgid "Display tagline under the logo."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:120
+msgid "Header Banner Ad (728 X 90)"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:121
+msgid ""
+"Adsense, Buy Sell Ads or Custom Code, if You`ve choosen \"Top Logo With Ad\" "
+"style."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:126
+msgid "Menu Item"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:132
+msgid "Menu Item Margin Right"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:137
+msgid "Menu Item Padding Top"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:142
+msgid "Menu Item Padding Right"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:147
+msgid "Menu Item Padding Bottom"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:152
+msgid "Menu Item Padding Left"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:157
+msgid "Menu Item Hover Effect"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:161
+#: framework-customizations/theme/options/header-settings.php:225
+msgid "none"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:162
+msgid "line-animation"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:163
+#: framework-customizations/theme/options/header-settings.php:226
+msgid "line-through"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:164
+#: framework-customizations/theme/options/header-settings.php:227
+msgid "overline"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:165
+#: framework-customizations/theme/options/header-settings.php:228
+msgid "underline"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:170
+msgid "Item Transition Speed"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:172
+msgid "Add the speed of the hover effect in sec."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:175
+msgid "Submenu Item"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:181
+msgid "Submenu Indicator"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:192
+msgid "Allow submenu indicator icon."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:195
+msgid "Submenu width"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:198
+msgid "Add the width of the submenu."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:201
+msgid "Submenu Item Padding Top"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:206
+msgid "Submenu Item Padding Right"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:211
+msgid "Submenu Item Padding Bottom"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:216
+msgid "Submenu Item Padding Left"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:221
+msgid "Item Hover Effect"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:232
+msgid "Header Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:243
+msgid "Allow Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:254
+#: framework-customizations/theme/options/header-settings.php:340
+msgid "Turn on or off."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:260
+msgid "Buttons Area Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:261
+msgid "Buttons area padding (top, right, bottom, left)."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:266
+msgid "Buttons Inner Vertical Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:271
+msgid "Buttons Inner Horizontal Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:276
+msgid "Search Button"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:287
+msgid "Allow search field on header."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:291
+msgid "Extra Button Text"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:293
+msgid "Leave blank, if You don`t need extra button."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:297
+msgid "Extra Button Link"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:298
+msgid "Add the link of the extra button."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:306
+#: includes/theme-init.php:31
+msgid "Mobil Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:310
+msgid "Setup the mobil menu as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:320
+msgid "Mobil Menu Under"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:321
+msgid ""
+"Add the device width (in px) where You want to change the basic menu to "
+"mobile menu."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:329
+msgid "Display Mobil Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:346
+msgid "Mobil Menu Item Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:349
+msgid "Vertical padding for the items in px."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:356
+msgid "Transparent Header on Mobile"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:367
+msgid "Allow transparent header on mobile"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:370
+#: framework-customizations/theme/options/posts/page.php:68
+msgid "Transparent Header"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:373
+msgid "Customize the transparent header as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:377
+msgid "Transparent Header For Pages"
+msgstr ""
+
+#: framework-customizations/theme/options/header-settings.php:388
+msgid "Allow transparent header for all pages."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:7
+msgid "Secondary Header"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:11
+msgid "Allow Secondary Header"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:22
+msgid "Display secondary header."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:25
+msgid "Allow On Mobil"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:36
+msgid "Display secondary header on mobil."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:39
+msgid "Secondary Header Positon"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:42
+msgid "Secondary Header under or above the basic header."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:44
+msgid "Top"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:45
+msgid "Bottom"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:49
+msgid "Secondary Header Layout"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:52
+msgid "Choose on of the layouts."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:54
+msgid "Custom - Menu - Social"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:55
+msgid "Menu - Social - Custom"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:56
+msgid "Menu - Custom - Social"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:57
+msgid "Social - Custom - Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:61
+msgid "Custom Content"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:62
+msgid "Add Your custom text here."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:67
+msgid "Secondary Header Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:68
+msgid "Secondary header padding (top, right, bottom, left)."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:73
+msgid "Display Custom Area"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:84
+msgid "Display custom area on secondary header."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:87
+msgid "Custom Area Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:93
+msgid "Display Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:104
+msgid "Display menu on secondary header. (You can`t use submenu here.)"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:107
+msgid "Menu Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:119
+msgid "Display Socials"
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:130
+msgid "Display socials on secondary header."
+msgstr ""
+
+#: framework-customizations/theme/options/secondary-header-settings.php:133
+msgid "Socials Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:7
+msgid "Shortcode Styles"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:11
+msgid "Featured Carousels"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:14
+msgid "Customize the Call To Action, Post 1 shortcodes as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:19
+msgid "Item Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:20
+msgid "Add the padding css for the items."
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:24
+msgid "Line Animation"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:28
+#: framework-customizations/theme/options/shortcode-styles-settings.php:37
+#: includes/theme-function.php:14
+msgid "None"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:29
+msgid "Frame"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:33
+msgid "Image Animation"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:38
+msgid "Zoom"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:42
+msgid "Quote Carousel"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:45
+msgid "Customize the Quote Carousel shortcode as You want."
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:49
+msgid "Author Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/shortcode-styles-settings.php:50
+msgid ""
+"Upload an image for quote carousel author background. (Prefered size is "
+"105px X 105px.)"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:7
+msgid "Sidebars"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:11
+msgid "Default Layout"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:14
+msgid "Select the default layout for your theme."
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:56
+msgid "Sidebar Width"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:59
+msgid "Sidebar width in %."
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:62
+msgid "Sidebar padding"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:65
+msgid "Add padding css."
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:68
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:71
+msgid "Pick a color for sidebar background"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:75
+msgid "Sidebar Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:76
+msgid "Upload an image for sidebar background."
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:80
+msgid "Sidebar Background Image Size"
+msgstr ""
+
+#: framework-customizations/theme/options/sidebars-settings.php:91
+msgid "Sidebar Background Image Repeat"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:7
+msgid "Social"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:12
+msgid "Social Site 1"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:13
+#: framework-customizations/theme/options/social-settings.php:25
+#: framework-customizations/theme/options/social-settings.php:37
+#: framework-customizations/theme/options/social-settings.php:49
+#: framework-customizations/theme/options/social-settings.php:61
+#: framework-customizations/theme/options/social-settings.php:73
+#: framework-customizations/theme/options/social-settings.php:83
+#: framework-customizations/theme/options/social-settings.php:93
+msgid "Add the link of Your Social Site."
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:16
+#: framework-customizations/theme/options/social-settings.php:28
+#: framework-customizations/theme/options/social-settings.php:40
+#: framework-customizations/theme/options/social-settings.php:52
+#: framework-customizations/theme/options/social-settings.php:64
+msgid "Icon"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:19
+#: framework-customizations/theme/options/social-settings.php:31
+#: framework-customizations/theme/options/social-settings.php:43
+#: framework-customizations/theme/options/social-settings.php:55
+#: framework-customizations/theme/options/social-settings.php:67
+msgid "Add an icon for Your Social Site."
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:24
+msgid "Social Site 2"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:36
+msgid "Social Site 3"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:48
+msgid "Social Site 4"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:60
+msgid "Social Site 5"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:72
+msgid "Social Site 6"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:76
+#: framework-customizations/theme/options/social-settings.php:86
+#: framework-customizations/theme/options/social-settings.php:96
+msgid "Custom Icon"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:77
+#: framework-customizations/theme/options/social-settings.php:87
+#: framework-customizations/theme/options/social-settings.php:97
+msgid "Upload the icon image."
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:82
+msgid "Social Site 7"
+msgstr ""
+
+#: framework-customizations/theme/options/social-settings.php:92
+msgid "Social Site 8"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:7
+msgid "Page Options"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:11
+#: framework-customizations/theme/options/posts/post.php:74
+msgid "Layout"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:14
+msgid "Select the layout for the page."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:78
+msgid "Top Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:81
+#: framework-customizations/theme/options/posts/page.php:88
+msgid "Add padding in px. Default is 50."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:85
+msgid "Bottom Padding"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:95
+msgid "You can add Your custom css here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:7
+msgid "Post Options"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:11
+msgid "Gallery Images (Gallery Format Only)"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:16
+msgid "Quote (Quote Format Only)"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:21
+msgid "Quote Author (Quote Format Only)"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:26
+msgid "Link (Link  Format Only)"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:29
+msgid "Add Your link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:32
+msgid "Video Source"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:39
+msgid "Youtube or Vimeo."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:42
+msgid "Video ID"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:45
+msgid "Add the Youtube or Vimeo ID."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:48
+msgid "Audio (Audio Format Only)"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:51
+msgid "Add the Soundcloud ID of Your audio."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:54
+msgid "Unique Excerpt"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:57
+msgid "Add unique excerpt for the blog or leave it blank."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:60
+msgid "Post Navigation"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:71
+msgid "Yes or no."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:77
+msgid "Select the layout for the post."
+msgstr ""
+
+#: includes/about-theme.php:12
+msgid "About Theme"
+msgstr ""
+
+#: includes/about-theme.php:22
+msgid "About Lakshmi Theme"
+msgstr ""
+
+#: includes/about-theme.php:24
+msgid ""
+"Lakshmi - Multipurpose WordPress Theme is a responsive theme with all "
+"features You need. Lakshmi has different layouts, page builder, customizer "
+"options and demo contents. Imagine Your website and build it with Lakshmi. "
+"Select from the premade layouts and build Your site with the highly "
+"customizable elements. If You would make something big, try Lakshmi Pro with "
+"more elements and special functions."
+msgstr ""
+
+#: includes/about-theme.php:25
+msgid "If You want to know more about Lakshmi Lite, please read the"
+msgstr ""
+
+#: includes/about-theme.php:25 includes/about-theme.php:33
+msgid "documentation"
+msgstr ""
+
+#: includes/about-theme.php:26
+msgid "How to use Lakshmi Lite"
+msgstr ""
+
+#: includes/about-theme.php:27
+msgid ""
+"1. If You want to use all Lakshmi Lite features install and activate the 3 "
+"recommended plugins: Unyson, Lakshmi Features, Contact Form 7."
+msgstr ""
+
+#: includes/about-theme.php:28
+msgid ""
+"2. Install the Unyson extensions: Analytics, Backup & Demo Content, Sliders, "
+"Mega Menu, SEO, Page Builder, Sidebars."
+msgstr ""
+
+#: includes/about-theme.php:29
+msgid ""
+"3. Install one of the demo contents at Tools -> Demo Content Install. (This "
+"step is optional. You can also select from the styles at the customizer -> "
+"general settings.)"
+msgstr ""
+
+#: includes/about-theme.php:30
+msgid ""
+"4. Use the customizer to setup Your site and build Your pages and blog posts "
+"with the page builder. If You prefer the default editor, You can call the "
+"Lakshmi elements with the \"editor shortcodes\" button."
+msgstr ""
+
+#: includes/about-theme.php:31
+msgid "5. Have fun!"
+msgstr ""
+
+#: includes/about-theme.php:33
+msgid "If You need more info, please read the"
+msgstr ""
+
+#: includes/about-theme.php:33
+msgid "It contains videos with Lakshmi in action."
+msgstr ""
+
+#: includes/about-theme.php:34
+msgid "About Lakshmi Pro"
+msgstr ""
+
+#: includes/about-theme.php:35
+msgid "Do You want more? Extend Lakshmi Theme! You can download"
+msgstr ""
+
+#: includes/about-theme.php:35 includes/theme-init.php:117
+msgid "Lakshmi - Multipurpose WordPress Theme"
+msgstr ""
+
+#: includes/about-theme.php:35
+msgid "pro version from Webzakt."
+msgstr ""
+
+#: includes/about-theme.php:36
+msgid "More about Pro Version"
+msgstr ""
+
+#: includes/about-theme.php:36
+msgid "More about Webzakt"
+msgstr ""
+
+#: includes/about-theme.php:37
+msgid "Pro version includes above the lite features:"
+msgstr ""
+
+#: includes/about-theme.php:39
+msgid ""
+"Customizable Colors & Fonts, WooCommerce & Give Donation Plugin support with "
+"page builder elemnts, Events & Portfolio post types with page builder "
+"elemnts, Breadcrumbs, Lakshmi Widgets (Contact, Event, Flickr, Popular "
+"Posts, Quote), 4 Blog Style, Social share function, Animations, Nice sroll, "
+"Back to top, Sticky header, 7 Header style, Countdown, Counter, Map-"
+"fullwidth, Member, Pricing-table, Progress, Tabs, Toggle, Calendar, Extra "
+"Post carousel and much more..."
+msgstr ""
+
+#: includes/about-theme.php:45
+msgid "Demo"
+msgstr ""
+
+#: includes/about-theme.php:46
+msgid "Buy Pro"
+msgstr ""
+
+#: includes/about-theme.php:47
+msgid "Documentation"
+msgstr ""
+
+#: includes/about-theme.php:50
+msgid ""
+"Lakshmi Lite - Multipurpose WordPress Theme is free, and I hope that you "
+"find it useful. If you would like to support future development and new "
+"product features, please make a (non-tax-deductible) donation via PayPal."
+msgstr ""
+
+#: includes/about-theme.php:60
+msgid "Credits"
+msgstr ""
+
+#: includes/about-theme.php:62
+msgid ""
+"I`ve used the following scripts as listed. See the source of the images in "
+"the documentation."
+msgstr ""
+
+#: includes/about-theme.php:65
+msgid "Bootstrap"
+msgstr ""
+
+#: includes/about-theme.php:66
+msgid "jQuery easing"
+msgstr ""
+
+#: includes/about-theme.php:67
+msgid "prettyPhoto"
+msgstr ""
+
+#: includes/about-theme.php:68
+msgid "Flexslider"
+msgstr ""
+
+#: includes/about-theme.php:69
+msgid "OwlCarousel"
+msgstr ""
+
+#: includes/about-theme.php:70
+msgid "Nivo Slider"
+msgstr ""
+
+#: includes/about-theme.php:71
+msgid "jQuery Directional Hover"
+msgstr ""
+
+#: includes/about-theme.php:72
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/about-theme.php:73
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/about-theme.php:74
+msgid "Unyson"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:386
+#: includes/class-tgm-plugin-activation.php:827
+#: includes/class-tgm-plugin-activation.php:2533
+#: includes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:387
+#: includes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:388
+#: includes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:934
+#: includes/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1121
+#: includes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3509
+#: includes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3509
+#: includes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/header-function.php:34 includes/header-function.php:43
+msgid "Click for Home"
+msgstr ""
+
+#: includes/theme-function.php:54
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: includes/theme-function.php:58
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/theme-function.php:63
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-function.php:65
+msgid "Edit"
+msgstr ""
+
+#: includes/theme-function.php:90
+msgid "Pingback:"
+msgstr ""
+
+#: includes/theme-function.php:90
+msgid "(Edit)"
+msgstr ""
+
+#: includes/theme-function.php:114
+msgid "Comment navigation"
+msgstr ""
+
+#: includes/theme-function.php:117
+msgid "Older Comments"
+msgstr ""
+
+#: includes/theme-function.php:121
+msgid "Newer Comments"
+msgstr ""
+
+#: includes/theme-function.php:302 includes/theme-function.php:330
+msgid "No Comments"
+msgstr ""
+
+#: includes/theme-function.php:303 includes/theme-function.php:331
+msgid "1 Comment"
+msgstr ""
+
+#: includes/theme-function.php:304 includes/theme-function.php:332
+msgid "% Comments"
+msgstr ""
+
+#: includes/theme-function.php:305 includes/theme-function.php:333
+msgid "Comments Closed"
+msgstr ""
+
+#: includes/theme-function.php:366 includes/theme-function.php:380
+msgid "Tags:"
+msgstr ""
+
+#: includes/theme-function.php:423
+msgid "Lakshmi Icons"
+msgstr ""
+
+#: includes/theme-function.php:424
+msgid "Web Application Icons"
+msgstr ""
+
+#: includes/theme-function.php:425
+msgid "Hand Icons"
+msgstr ""
+
+#: includes/theme-function.php:426
+msgid "Transportation Icons"
+msgstr ""
+
+#: includes/theme-function.php:427
+msgid "Gender Icons"
+msgstr ""
+
+#: includes/theme-function.php:428
+msgid "File Type Icons"
+msgstr ""
+
+#: includes/theme-function.php:429
+msgid "Payment Icons"
+msgstr ""
+
+#: includes/theme-function.php:430
+msgid "Currency Icons"
+msgstr ""
+
+#: includes/theme-function.php:431
+msgid "Text Editor Icons"
+msgstr ""
+
+#: includes/theme-function.php:432
+msgid "Directional Icons"
+msgstr ""
+
+#: includes/theme-function.php:433
+msgid "Video Player Icons"
+msgstr ""
+
+#: includes/theme-function.php:434
+msgid "Brand Icons"
+msgstr ""
+
+#: includes/theme-function.php:435
+msgid "Medical Icons"
+msgstr ""
+
+#: includes/theme-init.php:27
+msgid "Main Menu"
+msgstr ""
+
+#: includes/theme-init.php:35
+msgid "Secondary Header Menu"
+msgstr ""
+
+#: includes/theme-init.php:39
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/theme-init.php:112
+msgid "Header Settings"
+msgstr ""
+
+#: includes/theme-init.php:123
+msgid "Top Header Text"
+msgstr ""
+
+#: includes/theme-init.php:126
+msgid "Add Your text to the top header"
+msgstr ""
+
+#: includes/theme-init.php:130 includes/theme-init.php:141
+#: includes/theme-init.php:245
+msgid "on"
+msgstr ""
+
+#: includes/theme-init.php:142 includes/theme-init.php:246
+msgid "off"
+msgstr ""
+
+#: includes/theme-init.php:144
+msgid "Featured posts on blog page."
+msgstr ""
+
+#: includes/theme-init.php:148
+msgid "Lakshmi"
+msgstr ""
+
+#: includes/theme-init.php:154
+msgid "Header Button Text"
+msgstr ""
+
+#: includes/theme-init.php:157
+msgid "Add Your text or leave empty."
+msgstr ""
+
+#: includes/theme-init.php:167
+msgid "Header Button Link"
+msgstr ""
+
+#: includes/theme-init.php:170
+msgid "Add Your link."
+msgstr ""
+
+#: includes/theme-init.php:180
+msgid "Facebook"
+msgstr ""
+
+#: includes/theme-init.php:183 includes/theme-init.php:196
+#: includes/theme-init.php:209 includes/theme-init.php:222
+#: includes/theme-init.php:235
+msgid "Add Your link or leave empty."
+msgstr ""
+
+#: includes/theme-init.php:193
+msgid "Google"
+msgstr ""
+
+#: includes/theme-init.php:206
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme-init.php:219
+msgid "Youtube"
+msgstr ""
+
+#: includes/theme-init.php:232
+msgid "Linkedin"
+msgstr ""
+
+#: includes/theme-sidebar.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar.php:10
+msgid "Main Sidebar Widget Area"
+msgstr ""
+
+#: includes/theme-sidebar.php:18
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: includes/theme-sidebar.php:20 includes/theme-sidebar.php:30
+#: includes/theme-sidebar.php:40 includes/theme-sidebar.php:50
+#: includes/theme-sidebar.php:60
+msgid "Footer widget column."
+msgstr ""
+
+#: includes/theme-sidebar.php:28
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: includes/theme-sidebar.php:38
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: includes/theme-sidebar.php:48
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: includes/theme-sidebar.php:58
+msgid "Footer Sidebar 5"
+msgstr ""
